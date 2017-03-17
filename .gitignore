@@ -1,5 +1,5 @@
 # R project files
 .Rproj
-.Rblah
-.Rme
-.py
+*.Rblah
+*.Rme
+*.py
