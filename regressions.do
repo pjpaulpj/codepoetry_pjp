@@ -10,3 +10,12 @@ reg price mpg
 
 # Added some test lines
 # some cntent
+
+
+
+
+
+
+
+
+summ length
